@@ -1,6 +1,6 @@
 # Hi there, I'm Nandini 👋
 
-🎓 **B.Tech. in Computer Science & Engineering**  
+🎓 **B.Tech. in Computer Science & Engineering (2022-2026)**  
 💻 Aspiring **Software Development Engineer (SDE)**
 
 ---
